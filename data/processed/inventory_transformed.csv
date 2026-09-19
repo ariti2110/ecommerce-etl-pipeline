@@ -1,0 +1,4 @@
+product_id,product_name,category,stock_quantity,reorder_level,last_updated
+P001,Laptop,Electronics,50,10,2026-09-19
+P002,Phone,Electronics,200,25,2026-09-18
+P003,Keyboard,Electronics,500,100,2026-09-17

@@ -1,0 +1,6 @@
+order_id,customer_id,product_id,order_date,amount,status
+O001,C001,P001,2026-09-01,1500.0,delivered
+O002,C002,P002,2026-09-02,2500.5,pending
+O003,C001,P003,2026-09-03,800.0,shipped
+O004,C003,P001,2026-09-04,1500.0,delivered
+O005,C002,P002,2026-09-05,2500.5,delivered

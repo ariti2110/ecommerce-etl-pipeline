@@ -1,0 +1,6 @@
+metric_date,product_id,product_name,category,order_count,total_revenue,avg_order_value
+2026-09-01,P001,Laptop,Electronics,1,1500.0,1500.0
+2026-09-02,P002,Phone,Electronics,1,2500.5,2500.5
+2026-09-03,P003,Keyboard,Electronics,1,800.0,800.0
+2026-09-04,P001,Laptop,Electronics,1,1500.0,1500.0
+2026-09-05,P002,Phone,Electronics,1,2500.5,2500.5
